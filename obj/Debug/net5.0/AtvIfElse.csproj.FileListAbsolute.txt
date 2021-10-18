@@ -1,0 +1,16 @@
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.exe
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.deps.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.runtimeconfig.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.runtimeconfig.dev.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\ref\AtvIfElse.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\bin\Debug\net5.0\AtvIfElse.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.csproj.AssemblyReference.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.AssemblyInfoInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.AssemblyInfo.cs
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\ref\AtvIfElse.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\tarefa\AtvIfElse\obj\Debug\net5.0\AtvIfElse.genruntimeconfig.cache
